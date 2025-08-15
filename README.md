@@ -1,8 +1,16 @@
 # CIFAR-10 Image Classification with PyTorch
 
-This project details the implementation of a Convolutional Neural Network (CNN) using PyTorch for classifying images from the well-known CIFAR-10 dataset. The model demonstrates the process of building, training, and evaluating a deep learning model for image classification, achieving a test accuracy of approximately 82%.
+This project details the implementation of a Convolutional Neural Network (CNN) using PyTorch for classifying images from the well-known CIFAR-10 dataset. The model demonstrates the process of building, training, and evaluating a deep learning model for image classification, achieving a test accuracy of approximately 81.97%.
 
-!(https://i.imgur.com/your-sample-predictions-image.png)
+
+https://www.kaggle.com/datasets/ayush1220/cifar10
+
+
+The model's performance was evaluated using accuracy as the primary metric.
+
+-   **Training Accuracy:** 86.79%
+-   **Test Accuracy:** 81.97%
+
 
 ***
 
