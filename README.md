@@ -14,7 +14,7 @@ The model's performance was evaluated using accuracy as the primary metric.
 
 ***
 
-## 📖 About the Dataset
+## About the Dataset
 
 The **CIFAR-10 dataset** is a staple for computer vision tasks and consists of 60,000 32x32 color images across 10 classes. The dataset is pre-divided into 50,000 training images and 10,000 test images.
 
