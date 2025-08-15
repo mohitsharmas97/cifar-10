@@ -95,7 +95,7 @@ Ensure you have Python installed. The project relies on the following libraries:
 
 ***
 
-## 📊 Results & Evaluation
+##  Results & Evaluation
 
 The model was trained and evaluated with the following results:
 
