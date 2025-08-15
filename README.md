@@ -19,22 +19,22 @@ The model's performance was evaluated using accuracy as the primary metric.
 The **CIFAR-10 dataset** is a staple for computer vision tasks and consists of 60,000 32x32 color images across 10 classes. The dataset is pre-divided into 50,000 training images and 10,000 test images.
 
 The 10 classes include:
-- airplane ✈️
-- automobile 🚗
-- bird 🐦
-- cat 🐱
-- deer 🦌
-- dog 🐶
-- frog 🐸
-- horse 🐴
-- ship 🚢
-- truck 🚚
+- airplane 
+- automobile 
+- bird 
+- cat 
+- deer 
+- dog 
+- frog 
+- horse 
+- ship 
+- truck 
 
 To enhance the model's ability to generalize, the training data undergoes **augmentation**, including random horizontal flips and rotations. All images are normalized before being fed into the network.
 
 ***
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 A **Convolutional Neural Network (CNN)** is employed for this classification task. The architecture is composed of two main parts: a feature extractor and a classifier.
 
@@ -56,7 +56,7 @@ A **Convolutional Neural Network (CNN)** is employed for this classification tas
 
 ***
 
-## 🚀 Getting Started
+##  Getting Started
 
 To get this project up and running on your local machine, follow these steps.
 
@@ -85,7 +85,7 @@ Ensure you have Python installed. The project relies on the following libraries:
 
 ***
 
-## 💻 Usage
+## Usage
 
 1.  Run the Jupyter Notebook `Cifar_10_by_pytorch.ipynb`.
 2.  The notebook will first download the CIFAR-10 dataset.
